@@ -1,0 +1,110 @@
+
+    /*
+    Colors used
+
+    CSS HEX
+    --bright-pink-crayola: #ee4b6aff;
+    --pink: #f4b8c3ff;
+    --black: #010001ff;
+    --flax: #f2e47dff;
+    --arylide-yellow: #e6d460ff;
+    --mimi-pink: #fed7deff;
+    --red-cmyk: #ea261fff;
+
+     
+
+*/
+
+body {
+  
+  width:50%;
+  height:auto;
+  margin: auto;
+
+}
+
+h1, h2 {
+  background-color: #fed7deff;
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+em {
+  display:inline-block;
+  height:40px;
+  width:180px; 
+  background-color: #fed7deff; 
+  font-size: 14px;
+  color: #ee4b6aff;
+  font-style: normal; 
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#pika1:hover  {
+	border-color: #e6d460ff;
+}
+  
+#pika2 {
+  width:7%;
+}
+ 
+  img{
+  float: right;
+  border: 3px solid #ea261fff;
+}
+  
+  p span {
+  background-color: #e6d460ff; 
+  box-shadow: 4px 4px red;
+}
+  
+  .evolution {
+   background-color: #e6d460ff; 
+   box-shadow: 7px 5px black;
+}
+  
+  ul>li>ul>li {
+  color: #ee4b6aff;
+}
+  
+  p {
+  line-height: 1.9;
+	  
+}
+  
+  tr td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  border-color: #f4b8c3ff;
+	
+}
+table{
+  
+  border: 10px solid #fed7deff;
+  border-style: outset;
+  
+}
+
+	
+	hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 3px;
+} 
+
+a{ 
+	text-decoration:  underline red   
+}
+
+
+a:hover {
+
+  text-decoration:  dotted;  
+  text-decoration-color: #ee4b6aff; 
+}
+  
+  
